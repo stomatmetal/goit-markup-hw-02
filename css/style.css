@@ -1,5 +1,3 @@
-/*font-family: 'Raleway', sans-serif;
-font-family: "Roboto", sans-serif;*/
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -13,4 +11,18 @@ ol {
 
 a {
   text-decoration: none;
+}
+.page-header {
+}
+.header-nav {
+}
+.nav-tip {
+}
+.nav-link {
+}
+.contacts {
+}
+.con-tip {
+}
+.con-link {
 }
