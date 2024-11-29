@@ -120,9 +120,18 @@ a {
   text-transform: capitalize;
 }
 
+.our-team {
+  background-color: #ffffff;
+}
+
 .team-list {
   background-color: #ffffff;
 }
+
+.team-item {
+  background-color: #ffffff;
+}
+
 .team-names {
   font-weight: 500;
   font-size: 20px;
