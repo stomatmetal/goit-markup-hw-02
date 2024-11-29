@@ -163,7 +163,7 @@ a {
   text-transform: capitalize;
 }
 
-.portfolio .team-names {
+.portfolio h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -172,7 +172,7 @@ a {
   text-transform: capitalize;
 }
 
-.portfolio .team-text {
+.portfolio p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
